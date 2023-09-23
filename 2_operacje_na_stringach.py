@@ -16,3 +16,4 @@ lista = ['mama', 'pies', 'wakacje', 345, 34.55]
 print(lista[1:3])
 print(lista[2:-1])
 print(lista[2:])
+
